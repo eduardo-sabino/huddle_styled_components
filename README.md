@@ -6,4 +6,4 @@
 
 # Design
 
-!Design(https://github.com/eduardo-sabino/my-portfolio/blob/main/src/img/huddle.png?raw=true)
+![Design](https://github.com/eduardo-sabino/my-portfolio/blob/main/src/img/huddle.png)
